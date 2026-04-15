@@ -32,4 +32,3 @@ public class NumberProcessorTest {
         assertEquals(-2, NumberProcessor.process(3));
     }
 }
-}
